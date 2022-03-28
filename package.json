@@ -1,0 +1,9 @@
+{
+  "name": "typescript-algorithms",
+  "version": "1.0.0",
+  "description": "data-structure and algorithm learning process / my implementation",
+  "main": "index.js",
+  "author": "Hassan Ibrahim",
+  "license": "MIT",
+  "private": null
+}
